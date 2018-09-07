@@ -1,2 +1,0 @@
-# ddp
-Developing Data Products
